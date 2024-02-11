@@ -9,7 +9,7 @@ d_evil = d >> 333
 d_good = d % 2**333
 ```
 
-次のコードで与えられる情報から d_evil, d_good を求め、$d$ を求める。
+次のコードで与えられる情報から d_evil, d_good を求め、 $d$ を求める。
 
 ```python
 def RsaGen(d_evil):
