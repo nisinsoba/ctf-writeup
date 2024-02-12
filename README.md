@@ -11,3 +11,9 @@
 - LCG
     - [SLCG](https://github.com/nisin-soba/ctf-writeup/tree/main/glacier-2023/SLCG)
     - [RSALCG (Franklin-Reiter Related Message Attack)](https://github.com/nisin-soba/ctf-writeup/tree/main/ricerca-2023/RSALCG)
+
+- z3
+    - [rps-casino](https://github.com/nisin-soba/ctf-writeup/tree/main/dice-2024)
+
+- Coppersmith method
+    - [Upside-down Cake](https://github.com/nisin-soba/ctf-writeup/tree/main/potluck-2023)
